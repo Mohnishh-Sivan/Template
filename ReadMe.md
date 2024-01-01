@@ -1,7 +1,7 @@
 <h2>Spendify - Expense Management Application</h2>
 
 <h3>Preview -</h3>
-<center><img src="Sample.jpg"></center>
+<center><img src="Sample V2.jpg"></center>
 
 <h3>Abstract -</h3>
 Developed an Artificial Intelligence based Expense Management Application called Spendify using HyperText Markup Language, Cascading Style Sheets, Vue JavaScript, C Sharp Programming Language and Microsoft Azure Services.<br/>
