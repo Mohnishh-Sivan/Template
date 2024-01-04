@@ -1,4 +1,4 @@
-<h2>Spendify - Expense Management Application</h2>
+<h2>Spendify - Job And Skill Recommendation Application</h2>
 
 <h3>Preview -</h3>
 <center><img src="Delete Now (1).png"></center>
